@@ -7,13 +7,14 @@
 
 ## 참고 자료
 - 김성훈 교수님의 [모두를 위한 딥러닝 강의](https://hunkim.github.io/ml/)
-- [골빈 해커의 3분 딥러닝](https://github.com/golbin/TensorFlow-Tutorials)
+- 골빈 해커의 3분 딥러닝 - [책](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162240137&orderClick=LEA&Kc=), [깃허브 저장소](https://github.com/golbin/TensorFlow-Tutorials)
+- 코딩 도장 - [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 
 ## 필기
-### [00-Introduction](00-Introduction/Introduction.md)
+### [00-Introduction](00-Introduction/Lec.md)
 수업의 개요에 대해 알아봅니다.
 
-### [01-MLTermsBasic](01-MLTermsBasic/MLTermsBasic.md)
+### [01-MLTermsBasic](01-MLTermsBasic/Lec.md)
 머신러닝의 기본적인 용어와 개념에 대해 알아봅시다.
 - [텐서플로우 설치 및 실행](./01-MLTermsBasic/Lab.md)
   - 텐서플로우를 설치하고 한번 실행해봅니다. 
