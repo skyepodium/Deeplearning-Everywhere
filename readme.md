@@ -15,6 +15,8 @@
 
 ### [01-MLTermsBasic](01-MLTermsBasic/MLTermsBasic.md)
 머신러닝의 기본적인 용어와 개념에 대해 알아봅시다.
+- [텐서플로우 설치 및 실행](./01-MLTermsBasic/Lab.md)
+  - 텐서플로우를 설치하고 한번 실행해봅니다. 
 
 ### [02-DeeplearningBasic](02-DeeplearningBasic/Tensorflow-Basic.md)
 텐서플로우의 기본에 대해 알아보고 설치를 진행합니다.
