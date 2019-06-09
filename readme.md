@@ -13,5 +13,8 @@
 ### [00-Introduction](00-Introduction/Introduction.md)
 수업의 개요에 대해 알아봅니다.
 
+### [01-MLTermsBasic](01-MLTermsBasic/MLTermsBasic.md)
+머신러닝의 기본적인 용어와 개념에 대해 알아봅시다.
+
 ### [02-DeeplearningBasic](02-DeeplearningBasic/Tensorflow-Basic.md)
 텐서플로우의 기본에 대해 알아보고 설치를 진행합니다.
