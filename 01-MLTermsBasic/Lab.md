@@ -32,10 +32,10 @@ python3
 
 ### 1) 작업을 진행할 빈 폴더 생성
 ```
-# mac 또는 linux 사용자라면
+# mac 또는 linux 사용자라면, Deeplearning-test는 생성할 폴더의 이름입니다.
 mkdir Deeplearning-test
 
-# 윈도우 사용자이시면 윈도우 탐색기의 새폴더 만들기로 만드셔도 괜찮습니다.
+# 새폴더 만들기로 만드셔도 괜찮습니다.
 ```
 ### 2) 파이썬 라이브러리를 저장할 가상환경을 생성합니다.
 저는 텐서플로우 라이브러리가 노트북의 전역으로 설치되는 것을 원하지 않습니다. 프로젝트 마다 독립적인 라이브러리를 원하기 때문에 가상환경을 사용했습니다.
@@ -48,7 +48,7 @@ python3 -m venv venv
 ### 3) 가상환경 실행
 ```
 # mac, linux 사용자
-source vevn/bin/activate
+source venv/bin/activate
 
 # window 사용자
 cd venv
