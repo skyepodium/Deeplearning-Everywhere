@@ -10,5 +10,8 @@
 - [골빈 해커의 3분 딥러닝](https://github.com/golbin/TensorFlow-Tutorials)
 
 ## 필기
+### [00-Introduction](00-Introduction/Introduction.md)
+수업의 개요에 대해 알아봅니다.
+
 ### [02-DeeplearningBasic](02-DeeplearningBasic/Tensorflow-Basic.md)
 텐서플로우의 기본에 대해 알아보고 설치를 진행합니다.
