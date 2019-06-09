@@ -11,4 +11,4 @@
 
 ## 필기
 ### [02-DeeplearningBasic](02-DeeplearningBasic/Tensorflow-Basic.md)
-텐서플로우 기본 및 설치
+텐서플로우의 기본에 대해 알아보고 설치를 진행합니다.
